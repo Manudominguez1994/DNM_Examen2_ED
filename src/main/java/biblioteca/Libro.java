@@ -2,7 +2,7 @@ package biblioteca;
 
 /**
  *  @author Manuel_Dominguez_Navarro
- *  Git-Hub-> <a></a>
+ *  Git-Hub-> <a>https://github.com/Manudominguez1994/DNM_Examen2_ED</a>
  *  Esta claro representa un libro dentro de la biblioteca
  *  La clase contiene atributos y metodos relacionados con el libro, como por ejemplo:
  *  titulo,autor,año de publicacion
